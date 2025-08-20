@@ -7,7 +7,6 @@ This repository contains a comprehensive analysis of customer retention performa
 **Analysis Contact:** 22f3001013@ds.study.iitm.ac.in
 
 ## 📈 Key Metrics
-
 - **Average Retention Rate:** **71.9%**
 - **Industry Target:** 85%
 - **Gap to Target:** 13.1%
